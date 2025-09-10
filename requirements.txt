@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+scikit-learn
+pandas
+numpy
+python-dotenv
+requests
+joblib
+fastapi[standard]
+langchain-groq
+langchain-core
+langchain
+pypdf
+sqlalchemy
+uvicorn
